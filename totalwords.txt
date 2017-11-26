@@ -1,9 +1,12 @@
 "words" "score"
 "about" 4207
 "after" 1983
+"again" 831
 "all" 4773
 "also" 1945
+"always" 882
 "and" 35757
+"another" 926
 "any" 1274
 "are" 6826
 "around" 1055
@@ -13,18 +16,26 @@
 "before" 1323
 "being" 1182
 "best" 1080
+"better" 874
+"big" 861
 "but" 6934
 "can" 4211
+"city" 969
 "come" 1117
 "could" 1639
 "day" 2273
 "did" 1403
+"didn" 909
 "don" 2151
 "down" 1283
 "even" 1619
+"every" 975
+"family" 844
+"few" 817
 "first" 2047
 "for" 15281
 "from" 5572
+"game" 977
 "get" 2848
 "going" 1648
 "good" 2265
@@ -44,13 +55,16 @@
 "just" 3943
 "know" 2122
 "last" 1808
+"let" 931
 "life" 1256
 "like" 3700
 "little" 1187
 "long" 1017
+"look" 899
 "love" 1892
 "made" 1182
 "make" 1757
+"man" 824
 "many" 1267
 "may" 1140
 "more" 3459
@@ -64,6 +78,7 @@
 "not" 5744
 "now" 2397
 "off" 1440
+"old" 967
 "one" 4271
 "only" 1791
 "other" 1912
@@ -74,15 +89,20 @@
 "really" 1515
 "right" 1319
 "said" 4953
+"same" 842
 "say" 1179
+"says" 800
 "school" 1109
 "see" 1791
 "she" 3139
 "should" 1149
+"show" 845
+"since" 872
 "some" 2849
 "something" 1017
 "state" 1183
 "still" 1469
+"such" 832
 "take" 1225
 "than" 2026
 "thanks" 1052
@@ -117,835 +137,3392 @@
 "which" 2285
 "while" 1156
 "who" 3806
+"why" 980
 "will" 4427
 "with" 10206
 "work" 1370
+"world" 979
 "would" 2925
 "year" 2112
 "years" 1410
 "you" 12920
 "your" 3775
+"a bad" 1456
+"a better" 1584
 "a big" 3328
+"ability to" 1600
 "a bit" 4688
 "able to" 6208
+"a book" 1360
 "about a" 3296
+"about how" 1760
 "about it" 3232
 "about the" 9536
+"about this" 1872
+"about to" 2144
+"about what" 1632
 "according to" 6112
+"a chance" 1984
 "a couple" 3808
+"across the" 2608
+"a day" 2288
+"a different" 1472
 "a few" 9648
+"a friend" 1408
+"after a" 2800
 "after the" 5456
+"against the" 2864
+"a game" 1344
 "a good" 7712
 "a great" 7920
+"a half" 1504
+"a huge" 1616
+"a large" 1760
 "a little" 9296
+"all day" 1552
+"all i" 2192
+"all my" 1344
 "all of" 6736
+"all over" 1504
+"all that" 1904
 "all the" 11200
 "a long" 3568
+"along the" 1568
+"along with" 2192
 "a lot" 10368
+"a man" 2160
+"am i" 1632
+"am not" 1280
+"among the" 1728
+"a month" 1456
+"a more" 1360
+"amount of" 1600
 "and a" 14144
+"and all" 2432
+"and an" 1376
+"and as" 1584
+"and even" 1808
+"and for" 2144
+"and get" 1696
+"and has" 1728
+"and have" 2320
 "and he" 4624
+"and her" 1952
 "and his" 3968
+"and how" 2064
 "and i" 22736
+"and if" 2208
 "and in" 3504
+"and is" 2592
 "and it" 8208
+"and its" 1616
+"and just" 1440
+"and more" 2336
+"and my" 2656
+"and no" 1344
+"and not" 2672
+"and now" 1776
+"and one" 1824
 "and other" 4240
+"and see" 1280
+"and she" 2432
+"and so" 2304
+"and some" 1824
 "and that" 6080
 "and the" 30128
+"and their" 1952
 "and then" 6928
+"and there" 2208
 "and they" 4352
+"and this" 1920
+"and to" 2816
+"and was" 2912
 "and we" 5872
+"and what" 2256
+"and when" 1648
+"and will" 1984
+"and with" 1440
 "and you" 4496
+"and your" 1376
 "a new" 6928
+"an hour" 1568
+"a nice" 1536
+"any of" 1680
+"any other" 1424
+"a person" 1328
+"a place" 1280
+"are a" 2992
+"a real" 1408
+"are all" 1568
+"are going" 1696
+"are in" 2144
 "are not" 3792
+"aren t" 2720
+"are so" 1744
+"are still" 1776
 "are the" 4448
 "are you" 5632
 "around the" 3904
 "as a" 16160
+"as an" 2800
+"a second" 1904
+"as he" 2832
 "as i" 5312
+"as if" 1472
+"a single" 1472
+"as it" 2960
+"as long" 1360
+"a small" 2768
+"as much" 2384
 "as the" 10880
+"as they" 2720
+"as we" 2352
 "as well" 7424
+"as you" 2128
 "at a" 7936
 "at all" 3248
+"at home" 2064
+"a time" 1856
 "at least" 6992
+"at p" 1616
 "at the" 32320
+"at this" 2288
 "a very" 3920
+"a way" 1680
+"away from" 2864
+"a week" 2096
+"a while" 2320
+"a whole" 1328
+"a woman" 1280
 "a year" 5328
+"back and" 1936
+"back in" 2544
+"back on" 1296
 "back to" 6800
+"based on" 2544
 "be a" 10144
+"be able" 2688
+"be an" 1312
+"be at" 1456
+"because he" 1536
 "because i" 4128
+"because it" 3008
 "because of" 4224
+"because the" 2304
+"because they" 1968
+"become a" 1344
 "been a" 3216
+"before i" 1616
 "before the" 3360
+"behind the" 1328
+"be in" 2704
+"being a" 1680
+"believe that" 1408
+"be more" 1376
+"be on" 1776
 "be the" 4848
+"be there" 1456
+"better than" 2144
+"between the" 1904
+"bit of" 1936
+"but a" 1504
 "but he" 3376
 "but i" 13792
+"but if" 1728
+"but in" 1376
 "but it" 7952
+"but not" 1984
+"but that" 2848
 "but the" 7328
+"but there" 1296
+"but they" 2880
+"but this" 1600
+"but we" 2512
+"but when" 1344
+"but you" 1856
 "by a" 4032
 "by the" 14784
+"came to" 1600
 "can be" 6176
+"can do" 1744
+"can get" 1664
+"can i" 1408
+"can see" 1552
 "can t" 15072
+"can you" 2000
+"chance to" 1936
+"check out" 2464
+"city s" 1696
+"close to" 1824
+"come back" 1312
+"comes to" 1424
+"come to" 2592
+"continue to" 2240
 "could be" 4080
+"could have" 2448
 "couldn t" 4144
+"couple of" 3072
+"day and" 1424
+"day i" 1936
+"day of" 1872
+"deal with" 1280
+"decided to" 2976
+"department of" 1328
 "did not" 4448
 "didn t" 14544
+"did you" 2640
+"director of" 1584
+"does not" 2400
 "doesn t" 9296
+"do i" 2032
 "do it" 3360
 "do not" 3728
 "don t" 33648
+"do that" 1440
+"do the" 1808
+"do with" 1952
+"down and" 1456
+"down the" 2928
+"down to" 2304
 "do you" 6528
+"due to" 2304
 "during the" 4288
+"each other" 2624
+"easy to" 1424
 "end of" 4064
+"enough to" 2720
+"even if" 1968
+"even more" 1440
+"even though" 2160
+"every day" 1824
+"every time" 1376
+"excited to" 1392
+"expected to" 1888
+"fact that" 2208
+"feel like" 2384
+"filled with" 1280
+"find a" 1808
+"first time" 2656
+"focus on" 1376
+"follow me" 2032
 "for a" 21728
+"for all" 2848
+"for an" 2480
+"for example" 1584
+"for her" 2256
+"for him" 1472
+"for his" 2784
+"for it" 1872
 "for me" 5712
+"for more" 2096
 "for my" 3584
+"for our" 2112
+"for some" 2128
+"for that" 1872
 "for the" 45152
+"for their" 2048
+"for them" 1792
+"for this" 2880
+"for those" 1936
+"for us" 2080
 "forward to" 3376
+"for years" 1840
 "for you" 3920
+"for your" 2912
 "from a" 5760
+"from my" 1856
 "from the" 21424
+"front of" 1920
+"full of" 1696
 "get a" 4576
+"get it" 2064
 "get the" 3344
 "get to" 3216
+"going on" 2032
 "going to" 16112
+"good luck" 1296
+"good morning" 1424
+"good to" 1360
+"got a" 2944
 "go to" 5408
+"got the" 1568
+"got to" 2224
+"group of" 1600
 "had a" 9152
 "had been" 4144
+"had the" 2432
 "had to" 5936
+"happy birthday" 1520
+"hard to" 2704
 "has a" 5504
 "has been" 11456
+"hasn t" 2000
+"has the" 1392
+"has to" 2384
 "have a" 14624
+"have an" 1776
 "have been" 11104
+"have had" 1488
+"have no" 2192
 "haven t" 3984
 "have the" 4112
 "have to" 12912
+"have you" 1680
+"having a" 2496
+"he also" 1280
+"health care" 1648
+"he can" 1680
+"he could" 1520
+"he d" 1456
+"he did" 1392
+"he didn" 1360
 "he had" 3648
 "he has" 4320
 "he is" 5840
+"here and" 1280
+"here in" 1664
+"here is" 1680
+"here s" 2464
 "he s" 9936
 "he said" 11056
+"he says" 1488
 "he was" 11200
+"he will" 1680
+"he would" 2064
 "high school" 3328
+"him and" 1568
+"him to" 2352
+"his first" 1408
+"his own" 2064
+"his wife" 1488
+"hope you" 2416
+"how do" 1520
+"how i" 1792
+"how many" 1744
+"how much" 2304
+"how the" 1536
 "how to" 5328
+"i also" 1584
+"i always" 1568
 "i am" 16576
+"i believe" 1504
 "i can" 13552
 "i could" 5312
+"i couldn" 1424
 "i d" 5904
+"i decided" 1344
 "i did" 3920
 "i didn" 4416
 "i do" 4256
 "i don" 12432
 "i feel" 3648
+"i felt" 1760
+"if he" 2416
 "if i" 6864
 "if it" 3968
+"i found" 1760
 "if the" 3760
+"if there" 1312
 "if they" 3488
+"if we" 2160
 "if you" 18256
 "i get" 3488
 "i got" 4064
+"i guess" 2304
 "i had" 9904
+"i hate" 2272
 "i have" 18912
+"i haven" 1760
 "i hope" 3536
 "i just" 6928
+"i knew" 1776
 "i know" 8208
 "i like" 3232
 "i ll" 9712
 "i love" 9728
 "i m" 42416
+"i made" 1632
+"i mean" 1648
+"i miss" 1664
 "in a" 28064
+"in all" 1600
 "in an" 3856
 "in and" 3728
 "i need" 4112
+"i never" 1824
+"in fact" 2640
+"in front" 1824
+"in her" 2480
 "in his" 5680
+"in i" 1312
+"in it" 1920
+"in its" 1712
 "in my" 9216
+"in new" 2160
+"in one" 1808
+"in order" 2192
+"in our" 2736
+"in some" 1696
+"instead of" 2640
+"interested in" 1360
+"in that" 2848
 "in the" 98192
 "in their" 3872
 "in this" 5808
+"in to" 1760
 "into a" 4560
 "into the" 9472
+"in which" 2384
 "in your" 3792
+"i really" 2784
 "is a" 22672
+"is about" 1632
+"i said" 1760
+"is all" 1328
+"is also" 2144
+"is an" 3040
+"i saw" 2176
+"i see" 1744
+"is going" 3104
+"i should" 2144
 "is in" 3216
 "is it" 3344
+"is just" 2016
+"is more" 1328
+"is my" 2192
+"is no" 3024
 "is not" 7984
+"is now" 1952
 "isn t" 6112
+"is on" 2192
+"is one" 2944
+"is so" 3008
+"is still" 2528
+"i started" 1504
 "is that" 5904
 "is the" 16608
+"is this" 1648
+"i still" 1856
 "is to" 4352
+"is very" 1344
+"is what" 1856
+"is your" 1280
+"it a" 2560
+"it all" 2576
+"it and" 2912
+"it as" 1296
+"it but" 1376
+"it can" 1664
+"it comes" 1344
+"it doesn" 1632
+"it for" 1808
 "it has" 3536
 "i think" 12672
 "i thought" 4064
+"it i" 2944
 "it in" 3216
 "it is" 19552
+"it just" 1472
+"it on" 1936
+"it out" 2448
 "it s" 50448
+"it seems" 1600
+"it the" 1888
 "it to" 4240
+"it up" 2128
 "it was" 22528
+"it wasn" 1552
 "it will" 4864
+"it with" 1504
 "it would" 4576
+"i used" 1968
 "i ve" 14304
 "i want" 4992
+"i wanted" 2464
 "i was" 18912
+"i went" 1760
 "i will" 6560
+"i wish" 2432
 "i would" 7008
+"just a" 3184
+"just as" 1984
+"just got" 1296
+"just like" 1360
+"just the" 1504
 "kind of" 5584
+"know how" 1792
+"know i" 2240
+"know it" 1712
+"know that" 2816
+"know the" 1456
 "know what" 3536
+"lack of" 1600
+"last night" 3184
 "last week" 3440
 "last year" 5120
+"less than" 1904
+"let me" 2752
 "let s" 4208
+"life is" 1312
 "like a" 6960
+"like i" 2368
+"like it" 2384
+"like that" 2240
 "like the" 4192
+"like this" 2128
 "like to" 4144
+"like you" 1488
+"listening to" 1856
+"listen to" 1680
+"live in" 1648
 "ll be" 4016
+"long as" 1424
+"long time" 1536
 "look at" 3440
+"looking at" 1712
+"looking for" 3120
+"looking forward" 2176
+"look like" 1504
+"looks like" 2128
+"los angeles" 1760
 "lot of" 6880
+"lots of" 2080
+"love it" 1648
+"love the" 1920
+"love to" 2384
+"love you" 3184
+"m a" 1984
+"made a" 1712
+"made it" 1760
+"made the" 1344
 "make a" 3472
 "make it" 3808
+"makes me" 1696
+"make sure" 1968
+"make the" 2336
+"many of" 2432
+"many people" 1440
 "may be" 3296
+"may have" 2064
+"me a" 2592
+"me and" 2592
+"me i" 2160
+"me in" 1680
+"members of" 1504
+"me that" 1968
+"me the" 1312
 "me to" 4640
+"m going" 2112
+"m i" 1344
+"might be" 2464
+"might have" 1312
 "m not" 4896
 "more than" 10352
 "most of" 3744
+"m so" 1424
+"m sure" 1280
+"much as" 1760
+"much more" 1616
+"much of" 1984
+"must be" 2096
+"my family" 1472
+"my favorite" 2272
+"my first" 1664
+"my friend" 1392
+"my head" 1456
+"my heart" 1344
+"my life" 2608
+"my mind" 1456
+"my mom" 1392
+"my own" 1808
+"need a" 2160
+"needed to" 1280
+"needs to" 2400
 "need to" 9376
+"new jersey" 2160
 "new york" 5360
+"next to" 1552
+"next week" 1936
+"next year" 1520
+"no longer" 1568
+"no matter" 1440
+"no one" 3120
 "not a" 4416
+"not be" 2736
+"not have" 1760
+"not just" 1696
+"not only" 2256
+"not sure" 1920
 "not the" 3280
 "not to" 4176
+"now and" 1504
 "now i" 3664
+"now that" 1520
 "number of" 3488
 "of a" 18496
+"of all" 2816
+"of an" 2800
 "of course" 4544
 "off the" 4112
+"off to" 1568
+"of god" 1328
 "of her" 3536
 "of his" 6480
 "of it" 3792
+"of its" 2672
+"of life" 1440
+"of me" 1360
 "of my" 9616
+"of new" 1296
 "of our" 4592
+"of people" 2480
 "of that" 3328
 "of the" 104544
 "of their" 4160
 "of them" 4688
+"of these" 3088
 "of this" 5936
 "of those" 3648
+"of time" 1424
+"of us" 3152
+"of what" 2544
+"of which" 1440
+"of you" 3120
 "of your" 3472
 "on a" 12752
+"one day" 1360
 "one of" 17392
+"one that" 1440
+"one thing" 1312
+"on facebook" 1280
+"on friday" 1376
+"on her" 1392
+"on his" 3136
+"on it" 2336
+"only a" 1424
+"only one" 1440
 "on my" 5760
+"on our" 1600
+"on sunday" 1312
+"on that" 1760
 "on the" 43664
+"on their" 2144
+"on this" 2672
+"on to" 2000
+"on twitter" 1552
+"on your" 2720
+"opportunity to" 1408
+"or a" 2272
+"order to" 1920
+"or even" 1344
+"or not" 1696
+"or the" 2560
+"out a" 1856
+"out and" 2880
+"out for" 1888
+"out in" 1952
 "out of" 13456
+"out on" 1584
+"out that" 1328
 "out the" 3888
+"out there" 2576
 "out to" 3824
+"out with" 1376
 "over the" 7936
 "part of" 7168
+"people are" 1920
+"people in" 1792
+"people to" 1392
 "people who" 3344
+"percent of" 2608
+"pick up" 1344
+"plans to" 1344
+"president of" 1408
+"rather than" 2224
+"ready for" 1888
+"ready to" 2240
+"re going" 1472
+"re not" 2480
+"rest of" 2960
 "right now" 4544
 "s a" 12032
 "said he" 4672
 "said i" 4176
+"said in" 2336
 "said it" 3584
+"said she" 1824
 "said that" 3504
 "said the" 6912
+"said they" 1520
+"s all" 1856
+"same time" 1280
+"s an" 1296
+"s and" 1920
+"san francisco" 1584
+"say that" 2352
+"say the" 1344
+"s been" 2656
+"s day" 1440
+"see a" 1344
+"see how" 1328
+"see it" 1312
+"seems to" 1776
+"seem to" 1472
 "see the" 3296
+"see what" 1568
+"see you" 2464
+"sense of" 1408
+"set up" 1312
+"s going" 2112
+"she had" 1632
+"she has" 1776
+"she is" 2768
 "she s" 4000
 "she said" 4320
 "she was" 5008
 "should be" 4704
+"should have" 1824
+"shouldn t" 1296
+"s i" 1472
+"side of" 2032
+"s in" 1520
+"since i" 1872
+"since the" 2096
+"s just" 2912
+"s my" 1344
+"s no" 1584
 "s not" 6960
+"social media" 1376
+"so far" 2576
+"s office" 1344
 "so i" 8400
+"so it" 2336
+"so many" 2864
 "some of" 6848
+"something that" 1296
 "so much" 6016
+"sort of" 2016
+"so that" 2560
+"so the" 1744
+"so we" 2016
+"so you" 1648
+"s so" 1744
+"state of" 1296
+"state s" 1632
 "s the" 7152
+"still have" 1296
 "such a" 3552
 "such as" 4736
+"supposed to" 1744
+"s what" 2528
+"take a" 2928
+"take the" 1328
+"talk about" 1936
+"talking about" 2032
+"talk to" 1776
 "t be" 3664
+"t do" 1424
+"tell me" 1616
+"tell you" 1696
+"t even" 2816
+"t get" 3008
+"than a" 2720
 "thanks for" 7072
+"thanks to" 2144
 "thank you" 7024
+"than the" 3136
+"that a" 2560
+"that are" 2304
+"that can" 1536
+"that has" 2192
+"that have" 1616
 "that he" 6432
 "that i" 14176
+"that if" 1520
+"that in" 1504
 "that is" 7744
 "that it" 6400
+"that one" 1376
 "that s" 18304
+"that she" 2496
 "that the" 15376
+"that there" 2464
 "that they" 4464
+"that this" 1920
 "that was" 5520
 "that we" 5568
+"that will" 2464
 "that would" 3296
 "that you" 5200
 "t have" 5856
+"the american" 1376
+"the area" 1424
+"the back" 2064
+"the ball" 1760
 "the best" 8384
+"the big" 2496
+"the biggest" 1344
+"the board" 1424
+"the book" 2896
+"the bottom" 1456
+"the car" 1392
+"the case" 2416
 "the city" 5936
 "the company" 3760
+"the country" 2832
+"the county" 1312
+"the court" 1408
 "the day" 5456
+"the door" 1488
 "the end" 5136
+"the entire" 1680
+"the fact" 2272
+"the family" 2016
+"the federal" 1472
+"the film" 1568
+"the final" 2080
 "the first" 13808
+"the follow" 1424
+"the front" 1536
+"the future" 1648
 "the game" 3696
+"the good" 1616
+"the government" 2048
+"the great" 1520
+"the group" 1312
 "the house" 3328
+"the idea" 2016
+"their own" 2800
+"the kids" 2064
 "the last" 6384
+"the law" 1472
+"the main" 1360
+"the man" 1856
+"them and" 1584
+"the middle" 1952
+"them in" 1872
+"the money" 1296
+"the more" 1904
+"the morning" 1376
 "the most" 7760
+"the movie" 1456
 "them to" 3264
+"the nation" 1472
+"the national" 1968
 "the new" 8000
 "the next" 5856
+"then i" 2592
+"the night" 1840
+"then the" 1424
+"the number" 1888
+"the old" 1680
 "the one" 3344
 "the only" 5328
+"the original" 1440
 "the other" 6048
 "the past" 4112
+"the people" 2656
+"the point" 1392
+"the president" 1440
+"the problem" 1504
+"the project" 1360
+"the public" 1968
+"the real" 1584
 "there are" 8080
 "there is" 8624
 "there s" 8096
 "the rest" 3552
 "there was" 4592
+"there were" 2272
 "the right" 3728
+"the road" 1728
+"the room" 1376
+"the s" 2912
 "the same" 11328
+"the school" 2256
+"the season" 2032
 "the second" 3520
+"the show" 1952
+"the st" 1312
 "the state" 6432
+"the story" 2624
+"the sun" 1472
+"the team" 2592
+"the th" 3008
+"the things" 1376
+"the third" 1856
 "the time" 6720
 "the top" 3488
+"the truth" 1328
 "the two" 3408
 "the u" 3248
+"the united" 2384
+"the university" 1616
+"the very" 1456
 "the way" 6576
+"the week" 1312
+"the whole" 3072
+"the word" 1472
 "the world" 8064
 "they are" 8832
+"they can" 2496
+"they do" 1424
+"they don" 1760
 "the year" 4112
+"they had" 2192
 "they have" 3712
 "they re" 6304
+"they ve" 1568
 "they were" 5824
+"they will" 2176
+"they would" 1648
+"thing i" 1328
+"things that" 1472
+"think about" 1840
+"think i" 3040
+"thinking about" 1520
+"think it" 2864
+"think of" 1680
+"think that" 2176
 "this is" 13200
+"this morning" 2048
+"this one" 1712
+"this season" 1280
+"this time" 2528
+"this was" 2400
 "this week" 4080
+"this weekend" 1968
 "this year" 5680
+"those who" 2928
+"thousands of" 1392
+"three years" 1312
+"through a" 1424
+"throughout the" 1488
 "through the" 5024
+"time and" 2128
+"time for" 2352
 "time i" 3424
+"time in" 1792
+"time of" 1568
 "time to" 5728
 "t know" 5568
+"t like" 1632
 "to a" 13664
+"to all" 2336
+"to an" 2032
 "to be" 36592
+"to become" 1328
+"to bring" 1504
+"to buy" 1680
+"to change" 1648
 "to come" 3792
+"to create" 1696
+"today i" 1536
+"today s" 1488
 "to do" 13200
+"to eat" 1408
 "to find" 4224
+"to follow" 1584
 "to get" 15408
+"to give" 3040
 "to go" 8832
 "to have" 8064
+"to hear" 1904
 "to help" 4304
+"to her" 2096
+"to him" 1360
+"to his" 2992
+"to it" 1904
 "to keep" 4240
+"to know" 3088
+"told me" 1552
+"to learn" 1904
+"to leave" 1712
+"to live" 1568
+"to look" 2064
 "to make" 10832
 "to me" 5728
+"to meet" 2096
+"to move" 1440
 "to my" 5008
+"took a" 1328
+"too much" 2496
+"to our" 1968
+"to pay" 2016
 "to play" 3392
+"top of" 1728
+"to put" 2144
+"to read" 1664
+"to run" 1440
 "to say" 4368
 "to see" 11120
+"to share" 1696
+"to show" 1664
+"to start" 2912
+"to stay" 1760
+"to stop" 1920
 "to take" 6128
+"to talk" 1968
+"to tell" 1936
+"to that" 1680
 "to the" 51792
+"to their" 2128
+"to them" 1600
+"to think" 1840
+"to this" 2448
+"to try" 2320
+"to use" 3168
+"to watch" 1920
+"to win" 2048
 "to work" 3792
+"to write" 1696
 "to you" 3520
+"to your" 2432
+"t really" 1344
+"tried to" 1952
 "trying to" 6816
 "try to" 3456
+"t see" 1552
+"t think" 2768
+"t wait" 2800
+"t want" 3120
+"two years" 1792
+"type of" 1392
+"under the" 2736
+"united states" 2080
+"university of" 1472
+"until the" 1600
+"up a" 2240
 "up and" 3616
+"up for" 2480
 "up in" 3328
+"up on" 2272
 "up the" 4288
 "up to" 6288
 "up with" 4464
 "used to" 3488
+"use the" 1664
+"us to" 1984
 "ve been" 5168
+"ve got" 2560
+"ve had" 1392
+"wait for" 1456
+"waiting for" 1728
+"wait to" 1776
 "wanted to" 5040
+"wants to" 2224
 "want to" 13280
 "was a" 13424
+"was an" 1712
+"was going" 1984
+"was in" 3120
+"was just" 1792
+"was not" 3184
 "wasn t" 6192
+"was one" 1344
+"was so" 2176
+"was that" 1312
 "was the" 6816
+"was to" 1392
 "way to" 4928
+"we all" 2000
 "we are" 8832
 "we can" 4784
+"we do" 1536
+"we don" 1520
+"we got" 1424
 "we had" 3504
 "we have" 7904
 "we ll" 3552
 "well as" 3808
+"well i" 1696
+"we need" 2304
+"went to" 2752
 "we re" 8608
+"were a" 1328
+"weren t" 1440
+"were the" 1360
 "we ve" 3552
 "we were" 4000
+"we will" 3024
+"we would" 1408
+"what a" 1824
+"what do" 1440
+"what he" 1696
 "what i" 5744
 "what is" 3504
+"what it" 2416
 "what s" 4640
+"what the" 3152
+"what they" 2640
+"what to" 1456
+"what was" 1296
+"what we" 2352
 "what you" 4144
+"when a" 1648
 "when he" 4448
 "when i" 10144
+"when it" 3168
+"when she" 1824
 "when the" 5392
 "when they" 3232
+"when we" 2992
 "when you" 6608
+"where he" 1456
+"where i" 2208
+"where the" 2848
+"where you" 1376
+"which i" 1792
 "which is" 5168
+"which was" 1888
+"while i" 1520
+"while the" 1904
+"who are" 2880
+"who had" 1712
+"who has" 2496
+"who have" 1760
 "who is" 3536
+"who s" 1584
+"who was" 2672
+"why i" 1728
 "will be" 17840
+"will have" 2464
+"willing to" 1328
+"will not" 2048
+"wish i" 1712
 "with a" 19280
+"with all" 1392
+"with an" 2528
+"with her" 1920
+"with him" 1424
+"with his" 3184
+"with it" 1808
+"with me" 2096
 "with my" 4528
+"with some" 1536
+"with that" 1600
 "with the" 24800
+"with their" 1584
+"with them" 1504
+"with this" 1968
+"with you" 2288
+"with your" 1696
 "won t" 5424
+"working on" 1904
+"work on" 1280
+"work with" 1536
 "would be" 9488
 "would have" 4896
+"would like" 1712
+"would not" 2144
 "wouldn t" 3536
+"year and" 1472
 "year old" 5008
+"year s" 1632
+"years ago" 3184
+"years of" 1392
+"yes i" 1424
+"you a" 1456
+"you all" 1696
+"you and" 2400
 "you are" 9136
 "you can" 12512
+"you could" 1808
+"you d" 1312
+"you do" 2336
 "you don" 3648
+"you for" 2896
+"you get" 2464
+"you guys" 1888
 "you have" 8208
+"you in" 1488
+"you just" 1392
 "you know" 5648
+"you like" 1744
+"you ll" 3152
+"you may" 1360
+"you need" 2496
 "you re" 13200
+"your life" 1488
+"your own" 1360
+"you see" 1760
+"you should" 2176
+"you think" 2624
 "you to" 3360
+"you ve" 2640
 "you want" 3920
+"you were" 1984
 "you will" 3328
-"a bit of" 10496
-"a bunch of" 5632
-"according to a" 5120
-"according to the" 16640
-"a chance to" 9472
-"a couple of" 19968
-"a few days" 5632
-"a few weeks" 6016
-"a few years" 5888
-"a great day" 5888
-"a group of" 5632
-"a little bit" 8448
-"a little more" 7424
-"all of the" 13696
-"all the time" 11008
-"all the way" 5888
-"a long time" 9728
-"a lot of" 51456
-"and a half" 6528
-"and don t" 5760
-"and i am" 7424
-"and i don" 5120
-"and if you" 6016
-"and i have" 8320
-"and i ll" 6144
-"and i m" 18176
-"and in the" 6272
-"and i think" 5888
-"and it is" 5888
-"and it s" 17792
-"and it was" 7552
-"and i was" 6528
-"and i will" 6144
-"and that s" 8064
-"and this is" 5760
-"a number of" 7424
-"a part of" 5120
-"are going to" 10368
-"as a result" 6400
-"as far as" 6016
-"as long as" 10112
-"as much as" 12160
-"as part of" 6784
-"as soon as" 7040
-"as well as" 29568
-"at a time" 7808
-"at the end" 12544
-"at the same" 9216
-"at the time" 14336
-"at this point" 5888
-"a variety of" 5632
-"away from the" 6400
-"a way to" 5760
-"a year old" 11264
-"back in the" 7424
-"back to the" 12928
-"based on the" 5248
-"be able to" 21504
-"because it s" 6144
-"because of the" 9344
-"be sure to" 5888
-"but i don" 6272
-"but i m" 12288
-"but i think" 5504
-"but it is" 7680
-"but it s" 20480
-"but it was" 8192
-"but that s" 6016
-"by the end" 6144
-"by the time" 5376
-"can t be" 6144
-"can t wait" 21504
-"come up with" 5376
-"didn t have" 9216
-"didn t know" 10368
-"didn t want" 6144
-"d like to" 6656
-"doesn t have" 5376
-"don t even" 6144
-"don t get" 8448
-"don t have" 21888
-"don t know" 31232
-"don t like" 8832
-"don t need" 6016
-"don t think" 16512
-"don t want" 15360
-"do you have" 7040
-"do you think" 6144
-"end of the" 16256
-"for a long" 5760
-"for a while" 9600
-"for me to" 7936
-"for more than" 5376
-"for the first" 13440
-"for the follow" 10880
-"for the next" 6656
-"for the rt" 5888
-"front of the" 5248
-"going to be" 29824
-"going to the" 6016
-"go to the" 8320
-"has been a" 8832
-"has to be" 7168
-"have a great" 7808
-"have to be" 9472
-"have to do" 6016
-"he didn t" 10880
-"he doesn t" 7808
-"he s a" 6656
-"he said he" 7936
-"he said i" 5760
-"he said the" 7808
-"he was a" 8832
-"how are you" 5248
-"how do you" 7040
-"i am a" 6272
-"i am not" 9472
-"i am so" 8064
-"i can t" 39552
-"i couldn t" 11392
-"i decided to" 7808
-"i didn t" 35328
-"i d like" 6016
-"i do not" 7552
-"i don t" 99200
-"i feel like" 8704
-"if i can" 5120
-"if it s" 7424
-"if you are" 14720
-"if you can" 7552
-"if you don" 8704
-"if you have" 7040
-"if you re" 17536
-"if you want" 9600
-"i guess i" 5248
-"i had a" 11904
-"i had to" 15232
-"i have a" 17152
-"i have been" 11776
-"i have no" 6656
-"i haven t" 14080
-"i have to" 18944
-"i hope you" 6784
-"i know i" 10240
-"i know that" 6016
-"i ll be" 16768
-"i love the" 6272
-"i love you" 13952
-"i m a" 14464
-"i m glad" 5888
-"i m going" 16896
-"i m in" 7168
-"i m just" 8064
-"i m not" 38912
-"i m so" 9728
-"i m still" 6272
-"i m sure" 10240
-"in addition to" 6656
-"in a few" 5248
-"in a statement" 5120
-"i need to" 14080
-"in front of" 13568
-"in love with" 5120
-"in new york" 8064
-"in order to" 14208
-"in terms of" 7040
-"in the back" 5376
-"in the city" 5888
-"in the country" 7040
-"in the end" 6528
-"in the first" 16000
-"in the last" 7296
-"in the middle" 9856
-"in the morning" 7424
-"in the next" 6272
-"in the past" 12032
-"in the s" 13568
-"in the same" 8832
-"in the second" 6272
-"in the united" 7040
-"in the world" 16640
-"is a good" 5888
-"is a great" 6144
-"is a very" 5504
-"is expected to" 8192
-"is going to" 18176
-"is in the" 6400
-"is not a" 8576
-"is not the" 5376
-"is one of" 16256
-"is that the" 7680
-"is the best" 5888
-"is the first" 5376
-"is the only" 5248
-"it can be" 5376
-"it comes to" 7680
-"it didn t" 8320
-"it doesn t" 13056
-"it has been" 6784
-"i think i" 15744
-"i think it" 14592
-"i think that" 7680
-"i think the" 5632
-"i think we" 5504
-"i thought i" 5248
-"it in the" 5504
-"it is a" 16640
-"it is not" 8576
-"it is the" 10368
-"it s a" 46464
-"it s about" 5248
-"it s all" 8704
-"it s been" 12800
-"it s going" 6912
-"it s hard" 5632
-"it s just" 13056
-"it s like" 7552
-"it s not" 33280
-"it s really" 6016
-"it s so" 6400
-"it s the" 19712
-"it s time" 6912
-"it to the" 5760
-"it was a" 26112
-"it wasn t" 12416
-"it was the" 9984
-"it will be" 12800
-"it would be" 14976
-"i ve been" 27904
-"i ve got" 8448
-"i ve had" 6912
-"i wanted to" 14464
-"i want to" 22400
-"i was a" 7424
-"i was going" 5248
-"i was in" 6400
-"i wasn t" 9472
-"i went to" 5760
-"i will be" 9472
-"i wish i" 8448
-"i won t" 7808
-"i would have" 5632
-"i would like" 6272
-"i wouldn t" 6016
-"know how to" 5376
-"let me know" 8960
-"look at the" 8320
-"look forward to" 7296
-"looking for a" 6656
-"looking forward to" 16768
-"member of the" 5888
-"members of the" 7424
-"m going to" 14208
-"m not sure" 6912
-"more than a" 10368
-"most of the" 13056
-"much of the" 6528
-"needs to be" 6784
-"need to be" 8320
-"need to get" 5376
-"new york city" 6528
-"no matter what" 5120
-"not going to" 7936
-"now i m" 7808
-"now it s" 5120
-"of my favorite" 5120
-"of my life" 5376
-"of the best" 6272
-"of the city" 6016
-"of the day" 12288
-"of the first" 6784
-"of the most" 13056
-"of the new" 5504
-"of the season" 5632
-"of the state" 5504
-"of the world" 8960
-"of the year" 13440
-"one of my" 16128
-"one of the" 67584
-"one of them" 5504
-"one of those" 9984
-"on the other" 7552
-"on the way" 5120
-"on top of" 5632
-"out in the" 5120
-"out of the" 29056
-"over the last" 5376
-"over the past" 6144
-"over the years" 6272
-"part of a" 5504
-"part of the" 22656
-"percent of the" 6656
-"president of the" 5248
-"re going to" 9856
-"rest of the" 13952
-"said in a" 7808
-"said it s" 7552
-"said it was" 5888
-"seems to be" 5120
-"s going to" 12416
-"side of the" 9472
-"s not a" 5248
-"so i can" 5760
-"so i m" 8448
-"so it s" 6016
-"some of the" 25728
-"supposed to be" 5888
-"thanks for the" 31744
-"thank you for" 17280
-"that doesn t" 7296
-"that he was" 6144
-"that i am" 5888
-"that i can" 5120
-"that i have" 7168
-"that i m" 10368
-"that it is" 7296
-"that it s" 10112
-"that it was" 7296
-"that i ve" 6016
-"that i was" 5248
-"that s a" 12032
-"that s not" 11136
-"that s the" 12288
-"that s what" 15360
-"that s why" 6400
-"that there is" 5888
-"that would be" 8064
-"t have a" 6656
-"t have to" 11264
-"the back of" 6400
-"the best of" 5760
-"the bottom of" 5504
-"the city s" 12288
-"the company s" 7168
-"the cost of" 5248
-"the end of" 26368
-"the fact that" 15488
-"the first time" 17280
-"the idea of" 6272
-"the last time" 6144
-"the middle of" 8448
-"the nation s" 6016
-"the new york" 7808
-"the next day" 5504
-"the number of" 12288
-"the only one" 6016
-"the opportunity to" 5376
-"there is a" 16256
-"there is no" 16640
-"there s a" 17536
-"there s no" 8704
-"the rest of" 22912
-"there was a" 10112
-"there was no" 5120
-"there will be" 7296
-"the same thing" 6144
-"the same time" 9728
-"the start of" 5632
-"the state s" 10496
-"the time of" 5504
-"the top of" 7296
-"the united states" 14976
-"the university of" 7808
-"the world s" 6144
-"they don t" 13952
-"the year old" 10880
-"think it s" 10496
-"this is a" 17664
-"this is not" 6016
-"this is the" 18816
-"t know what" 6784
-"to be a" 29824
-"to be able" 6656
-"to be in" 6912
-"to be the" 13184
-"to do it" 8576
-"to do so" 5248
-"to do the" 5248
-"to do with" 12672
-"to figure out" 5120
-"to find a" 5632
-"to find out" 5248
-"to get a" 10496
-"to get the" 9600
-"to get to" 6400
-"to go to" 14208
-"to have a" 12928
-"to look at" 6016
-"to make a" 11904
-"to make it" 8960
-"to make sure" 7296
-"to make the" 7936
-"top of the" 6528
-"to say that" 6784
-"to see a" 5120
-"to see if" 5376
-"to see the" 10496
-"to see what" 5120
-"to see you" 7552
-"to take a" 7936
-"to talk about" 5248
-"to talk to" 6144
-"to try to" 6272
-"to use the" 5888
-"to work with" 5376
-"trying to get" 5760
-"t wait for" 6016
-"t wait to" 10496
-"t want to" 17792
-"up in the" 6784
-"up to the" 8064
-"up with a" 5632
-"want to be" 11264
-"want to go" 5888
-"want to see" 5120
-"was able to" 5760
-"was going to" 10880
-"was in the" 6144
-"was one of" 7552
-"we can t" 5760
-"we didn t" 7808
-"we don t" 12160
-"we had a" 7040
-"we have a" 9344
-"we have to" 7424
-"we ll be" 5120
-"we need to" 9472
-"went to the" 5888
-"we re going" 5632
-"we ve been" 5632
-"we want to" 5888
-"we will be" 5632
-"what do you" 7424
-"what to do" 5760
-"when he was" 5376
-"when i m" 5504
-"when it comes" 8064
-"when i was" 10368
-"when you re" 8832
-"will be a" 8576
-"will be the" 5248
-"will have to" 5248
-"wish i could" 5632
-"won t be" 9216
-"would be a" 8448
-"would have been" 6912
-"would like to" 10880
-"would love to" 7680
-"you can see" 5632
-"you can t" 16000
-"you don t" 29184
-"you for the" 6528
-"you have a" 10496
-"you have to" 14848
-"you know what" 6144
-"you need to" 9344
-"you re a" 6400
-"you re not" 11264
-"you so much" 5632
-"you ve got" 5120
-"you want to" 17280
+"you would" 1328
+"a bit more" 1600
+"a bit of" 5248
+"able to get" 1536
+"about how to" 1536
+"a bunch of" 2816
+"according to a" 2560
+"according to the" 8320
+"a chance to" 4736
+"a copy of" 1280
+"a couple of" 9984
+"across the country" 1600
+"a fan of" 1408
+"a few days" 2816
+"a few minutes" 2112
+"a few months" 1472
+"a few of" 1792
+"a few weeks" 3008
+"a few years" 2944
+"a good day" 1728
+"a good idea" 1600
+"a good thing" 1728
+"a good time" 1600
+"a great day" 2944
+"a great deal" 1472
+"a great time" 1856
+"a group of" 2816
+"a list of" 1600
+"a little bit" 4224
+"a little more" 3712
+"all kinds of" 1408
+"all of our" 1344
+"all of the" 6848
+"all of them" 2240
+"all of these" 1536
+"all of this" 2304
+"all of us" 1600
+"all of you" 1472
+"all over the" 2304
+"all sorts of" 1344
+"all the time" 5504
+"all the way" 2944
+"along the way" 2176
+"a long time" 4864
+"along with the" 2048
+"a lot about" 1344
+"a lot more" 2304
+"a lot of" 25728
+"a lot to" 1728
+"a man who" 1472
+"a matter of" 2112
+"a member of" 2496
+"am going to" 1728
+"and a few" 1920
+"and a half" 3264
+"and all of" 1344
+"and all the" 1728
+"and a lot" 1280
+"and didn t" 1536
+"and don t" 2880
+"and for the" 1728
+"and have a" 1472
+"and he s" 1920
+"and he was" 1792
+"and i am" 3712
+"and i are" 1408
+"and i can" 2240
+"and i don" 2560
+"and if you" 3008
+"and i had" 2304
+"and i have" 4160
+"and i just" 1280
+"and i know" 1408
+"and i ll" 3072
+"and i love" 1984
+"and i m" 9088
+"and in the" 3136
+"and i think" 2944
+"and it is" 2944
+"and it s" 8896
+"and it was" 3776
+"and i ve" 2240
+"and i was" 3264
+"and i will" 3072
+"and now i" 1536
+"and of course" 1728
+"and one of" 1728
+"and out of" 1920
+"and that is" 2176
+"and that it" 1344
+"and that s" 4032
+"and that the" 1856
+"and that was" 1280
+"and the new" 1408
+"and then i" 1472
+"and then the" 1792
+"and then we" 1344
+"and the other" 1728
+"and there are" 1984
+"and there s" 2048
+"and the rest" 1536
+"and they are" 2048
+"and they re" 1664
+"and this is" 2880
+"and we are" 1920
+"and we have" 1280
+"and we re" 2048
+"and will be" 1792
+"and you can" 2112
+"and you ll" 1536
+"and you will" 1344
+"an effort to" 1792
+"an e mail" 1280
+"an opportunity to" 1536
+"a number of" 3712
+"any of the" 2112
+"a pair of" 2496
+"a part of" 2560
+"a picture of" 1600
+"a piece of" 2496
+"appears to be" 1536
+"a pretty good" 1280
+"are going to" 5184
+"are having a" 1280
+"are in the" 1856
+"are on the" 1280
+"a result of" 1408
+"are trying to" 1472
+"are you going" 1280
+"around the world" 2368
+"as a result" 3200
+"a sense of" 1792
+"a series of" 2432
+"as far as" 3008
+"as for the" 1408
+"as good as" 1408
+"as i can" 1280
+"as i m" 1600
+"as it is" 1984
+"as long as" 5056
+"as much as" 6080
+"as one of" 1600
+"as part of" 3392
+"a spokesman for" 1408
+"as soon as" 3520
+"as well as" 14784
+"at a time" 3904
+"a time when" 1920
+"at least a" 1536
+"at least i" 1728
+"at least one" 2368
+"at one point" 1344
+"a ton of" 1408
+"a total of" 2112
+"a trip to" 1600
+"at some point" 1920
+"at the bottom" 1344
+"at the end" 6272
+"at the moment" 1920
+"at the same" 4608
+"at the time" 7168
+"at the top" 1728
+"at the university" 2176
+"at this point" 2944
+"at this time" 1536
+"a variety of" 2816
+"a very good" 1344
+"away from the" 3200
+"a way that" 1280
+"a way to" 2880
+"a whole lot" 1344
+"a year ago" 2496
+"a year old" 5632
+"back and forth" 1728
+"back in the" 3712
+"back into the" 1472
+"back of the" 1792
+"back to the" 6464
+"back to work" 1280
+"based on the" 2624
+"be able to" 10752
+"be a good" 1728
+"be a great" 1600
+"be a little" 1408
+"be a part" 1280
+"be at the" 1536
+"because i m" 1664
+"because it is" 1664
+"because it s" 3072
+"because it was" 1856
+"because of a" 1664
+"because of the" 4672
+"been able to" 2048
+"being able to" 1280
+"be in the" 2176
+"be one of" 1792
+"be on the" 2304
+"be part of" 1408
+"be sure to" 2944
+"be the best" 1600
+"between the two" 1472
+"bit of a" 1856
+"bottom of the" 2304
+"but at least" 1344
+"but didn t" 1408
+"but don t" 2176
+"but he s" 1920
+"but i am" 2240
+"but i can" 2112
+"but i don" 3136
+"but if you" 2368
+"but i have" 2368
+"but i know" 1536
+"but i ll" 1344
+"but i m" 6144
+"but in the" 1600
+"but i think" 2752
+"but it is" 3840
+"but it s" 10240
+"but it was" 4096
+"but i ve" 1472
+"but i was" 2112
+"but that s" 3008
+"but there s" 1856
+"but they are" 1280
+"but this is" 1344
+"but when i" 1280
+"but you can" 1472
+"by the end" 3072
+"by the time" 2688
+"by the way" 2368
+"came up with" 1728
+"can be a" 2304
+"can get a" 1280
+"can t be" 3072
+"can t believe" 2368
+"can t do" 1344
+"can t even" 1792
+"can t get" 2240
+"can t help" 1408
+"can t say" 1408
+"can t see" 1344
+"can t wait" 10752
+"chairman of the" 1280
+"check it out" 2176
+"check out the" 1984
+"close to the" 1344
+"come back to" 1344
+"come up with" 2688
+"could be a" 1792
+"could have been" 2496
+"could not be" 1536
+"couldn t be" 1280
+"couple of days" 1344
+"couple of weeks" 1408
+"day of the" 1728
+"didn t do" 1344
+"didn t even" 2496
+"didn t get" 2368
+"didn t have" 4608
+"didn t know" 5184
+"didn t see" 1280
+"didn t think" 2112
+"didn t want" 3072
+"did you know" 1600
+"director of the" 2432
+"d like to" 3328
+"d love to" 1664
+"doesn t have" 2688
+"doesn t make" 1280
+"doesn t mean" 2432
+"do not have" 1728
+"don t be" 1792
+"don t believe" 1408
+"don t care" 2496
+"don t do" 1600
+"don t even" 3072
+"don t feel" 2176
+"don t forget" 2368
+"don t get" 4224
+"don t have" 10944
+"don t know" 15616
+"don t let" 1728
+"don t like" 4416
+"don t mind" 1408
+"don t need" 3008
+"don t really" 1472
+"don t see" 2368
+"don t tell" 1280
+"don t think" 8256
+"don t understand" 1408
+"don t want" 7680
+"don t worry" 2048
+"don t you" 2368
+"do the same" 1408
+"do with the" 2112
+"down to the" 1664
+"do you have" 3520
+"do you know" 1856
+"do you think" 3072
+"do you want" 1664
+"due to the" 2240
+"each of the" 1600
+"early in the" 1600
+"edge of the" 1344
+"end of the" 8128
+"even if it" 1856
+"even if you" 1408
+"even though i" 1792
+"every time i" 1536
+"excited to see" 1600
+"expected to be" 1600
+"family and friends" 1408
+"feel free to" 1408
+"feel like i" 2112
+"few years ago" 1344
+"first day of" 1280
+"first time i" 1792
+"first time in" 1472
+"focus on the" 1280
+"for a few" 2496
+"for all of" 1408
+"for all the" 1984
+"for a long" 2880
+"for a new" 1984
+"for at least" 1536
+"for a while" 4800
+"for me to" 3968
+"for more information" 1728
+"for more than" 2688
+"for some reason" 2176
+"for the day" 1472
+"for the first" 6720
+"for the follow" 5440
+"for the last" 2304
+"for the mention" 1344
+"for them to" 1536
+"for the new" 1792
+"for the next" 3328
+"for the past" 2368
+"for the rest" 2368
+"for the rt" 2944
+"for the second" 1344
+"for the state" 1408
+"for those of" 1536
+"for those who" 2304
+"for us to" 1600
+"forward to seeing" 1600
+"forward to the" 1728
+"for you to" 2176
+"front of the" 2624
+"get back to" 1984
+"get out of" 2304
+"get rid of" 1280
+"getting ready to" 1408
+"get to the" 1984
+"give it a" 1280
+"give me a" 1408
+"go back to" 2304
+"going to be" 14912
+"going to do" 2432
+"going to get" 2240
+"going to go" 1600
+"going to have" 2112
+"going to make" 1408
+"going to see" 1344
+"going to take" 1280
+"going to the" 3008
+"go to a" 1344
+"go to the" 4160
+"great way to" 1344
+"grew up in" 1472
+"had a great" 2368
+"had to be" 2304
+"had to do" 1344
+"half of the" 1600
+"hall of fame" 1344
+"has always been" 1344
+"has been a" 4416
+"has been in" 1280
+"has been the" 1408
+"hasn t been" 1856
+"has to be" 3584
+"have a good" 2112
+"have a great" 3904
+"have a lot" 1920
+"have been a" 1664
+"have been the" 1344
+"have had a" 1600
+"have no idea" 1920
+"haven t been" 2304
+"haven t seen" 1664
+"have time to" 1344
+"have to be" 4736
+"have to do" 3008
+"have to get" 1408
+"have to go" 2240
+"have to say" 2304
+"head of the" 1280
+"he can t" 1408
+"he did not" 1792
+"he didn t" 5440
+"he doesn t" 3904
+"he had a" 1600
+"he has a" 2112
+"he has been" 1280
+"he is a" 2304
+"here s a" 2496
+"here s the" 2048
+"he s a" 3328
+"he said and" 1344
+"he said he" 3968
+"he said i" 2880
+"he said it" 2304
+"he said that" 1472
+"he said the" 3904
+"he s been" 1280
+"he s not" 2496
+"he s the" 1344
+"he told me" 1344
+"he wanted to" 1920
+"he wants to" 1984
+"he was a" 4416
+"he was in" 1344
+"he wasn t" 2240
+"he was the" 1344
+"he will be" 1856
+"hope you re" 1280
+"how are you" 2624
+"how did you" 1280
+"how do you" 3520
+"i am a" 3136
+"i am going" 1920
+"i am in" 1280
+"i am not" 4736
+"i am so" 4032
+"i am still" 1408
+"i believe that" 1280
+"i can be" 1344
+"i can do" 1792
+"i can get" 1856
+"i can see" 1920
+"i can t" 19776
+"i could have" 2112
+"i couldn t" 5696
+"i d be" 1472
+"i decided to" 3904
+"i did not" 2176
+"i didn t" 17664
+"i d like" 3008
+"i d love" 1792
+"i do not" 3776
+"i don t" 49600
+"i d rather" 1920
+"i feel like" 4352
+"i felt like" 1600
+"if i can" 2560
+"if i could" 2048
+"if i had" 1792
+"if i m" 1856
+"if it is" 1856
+"if it s" 3712
+"if it was" 2176
+"if there is" 1600
+"if they are" 1664
+"if you are" 7360
+"if you can" 3776
+"if you do" 1344
+"if you don" 4352
+"if you have" 3520
+"if you haven" 1536
+"if you like" 1408
+"if you re" 8768
+"if you think" 1280
+"if you ve" 1408
+"if you want" 4800
+"i get a" 1728
+"i get to" 2112
+"i got a" 1792
+"i got to" 1536
+"i guess i" 2624
+"i had a" 5952
+"i hadn t" 1408
+"i had the" 1664
+"i had to" 7616
+"i have a" 8576
+"i have been" 5888
+"i have had" 1408
+"i have never" 1600
+"i have no" 3328
+"i haven t" 7040
+"i have the" 2368
+"i have to" 9472
+"i hope that" 1344
+"i hope to" 1280
+"i hope you" 3392
+"i just got" 1344
+"i just want" 1792
+"i knew i" 1344
+"i know i" 5120
+"i know it" 2496
+"i know that" 3008
+"i know what" 1280
+"i know you" 1984
+"i like the" 1408
+"i like to" 2496
+"i ll be" 8384
+"i ll have" 1856
+"i ll just" 1280
+"i ll take" 1472
+"i love it" 2304
+"i love my" 2240
+"i love the" 3136
+"i love this" 1664
+"i love to" 1344
+"i love you" 6976
+"i m a" 7232
+"i m also" 1280
+"i m doing" 1920
+"i m excited" 1344
+"i m glad" 2944
+"i m going" 8448
+"i m gonna" 2368
+"i m in" 3584
+"i miss you" 2112
+"i m just" 4032
+"i m looking" 1856
+"i m not" 19456
+"i m on" 2048
+"i m pretty" 2240
+"i m really" 1920
+"i m so" 4864
+"i m sorry" 2368
+"i m still" 3136
+"i m sure" 5120
+"i m the" 1280
+"i m thinking" 1536
+"i m tired" 1536
+"i m trying" 1408
+"in addition to" 3328
+"in a few" 2624
+"in and out" 1408
+"in a new" 1344
+"in an interview" 1472
+"in a row" 2176
+"in a statement" 2560
+"in a very" 1280
+"in a way" 1920
+"i need a" 2432
+"i needed to" 1280
+"i need to" 7040
+"in fact i" 1536
+"in favor of" 1472
+"in front of" 6784
+"in los angeles" 1536
+"in love with" 2560
+"in my head" 2432
+"in my life" 2304
+"in my opinion" 1536
+"in new jersey" 1408
+"in new york" 4032
+"in one of" 1664
+"in order to" 7104
+"in other words" 1408
+"in recent years" 1856
+"in response to" 1344
+"instead of the" 1344
+"in terms of" 3520
+"in the air" 1920
+"in the area" 1536
+"in the back" 2688
+"in the block" 1408
+"in the book" 1920
+"in the car" 1472
+"in the case" 2048
+"in the city" 2944
+"in the country" 3520
+"in the day" 2176
+"in the early" 1792
+"in the end" 3264
+"in the face" 1280
+"in the fall" 1728
+"in the final" 2176
+"in the first" 8000
+"in the fourth" 1664
+"in the future" 2048
+"in the game" 2048
+"in the house" 2304
+"in the last" 3648
+"in the meantime" 1856
+"in the middle" 4928
+"in the morning" 3712
+"in the new" 1920
+"in the next" 3136
+"in the past" 6016
+"in the process" 1536
+"in the rain" 1280
+"in the s" 6784
+"in the same" 4416
+"in the second" 3136
+"in the state" 2496
+"in the th" 1792
+"in the third" 1984
+"in the top" 1600
+"in the u" 2496
+"in the united" 3520
+"in the us" 1600
+"in the way" 1472
+"in the world" 8320
+"in this case" 1664
+"in to the" 1280
+"involved in the" 1600
+"in your life" 1920
+"is a good" 2944
+"is a great" 3072
+"is all about" 1728
+"is also a" 1600
+"is a very" 2752
+"is expected to" 4096
+"is going to" 9088
+"i should be" 1408
+"i should have" 1792
+"is in the" 3200
+"is not a" 4288
+"is not the" 2688
+"isn t a" 1600
+"isn t it" 1536
+"isn t the" 1664
+"is one of" 8128
+"is on the" 1920
+"is part of" 1408
+"is so much" 1344
+"is such a" 1984
+"is that it" 1472
+"is that the" 3840
+"is that you" 1408
+"is the best" 2944
+"is the first" 2688
+"is the most" 1856
+"is the one" 1600
+"is the only" 2624
+"is the same" 1408
+"i still have" 1664
+"is to be" 2048
+"is trying to" 1728
+"is what i" 1536
+"it as a" 1856
+"it can be" 2688
+"it comes to" 3840
+"it could be" 2368
+"it didn t" 4160
+"it doesn t" 6528
+"it feels like" 1280
+"it has a" 1536
+"it has been" 3392
+"it has to" 1664
+"i think about" 1408
+"i think he" 1600
+"i think i" 7872
+"i think it" 7296
+"i think of" 1408
+"i think that" 3840
+"i think the" 2816
+"i think they" 1600
+"i think this" 1472
+"i think we" 2752
+"i think you" 1536
+"i thought i" 2624
+"i thought it" 2368
+"it in the" 2752
+"it is a" 8320
+"it is not" 4288
+"it isn t" 1600
+"it is the" 5184
+"it is to" 1344
+"it ll be" 1792
+"it looks like" 2432
+"it makes me" 1344
+"it may be" 1664
+"i told him" 1472
+"it on the" 1664
+"i try to" 1792
+"it s a" 23232
+"it s about" 2624
+"it s all" 4352
+"it s also" 1344
+"it s always" 1472
+"it s an" 2432
+"it s been" 6400
+"it seems like" 1408
+"it s going" 3456
+"it s good" 1344
+"it s hard" 2816
+"it should be" 1856
+"it s important" 1600
+"it s in" 1280
+"it s just" 6528
+"it s like" 3776
+"it s my" 1280
+"it s nice" 1472
+"it s not" 16640
+"it s one" 1280
+"it s only" 2496
+"it s really" 3008
+"it s so" 3200
+"it s still" 2048
+"it s that" 1408
+"it s the" 9856
+"it s time" 3456
+"it s very" 2240
+"it to be" 1344
+"it to the" 2880
+"it was a" 13056
+"it was all" 1600
+"it was an" 1408
+"it was just" 2368
+"it was not" 1920
+"it wasn t" 6208
+"it was so" 1920
+"it was the" 4992
+"it was very" 1280
+"it will be" 6400
+"it won t" 1536
+"it would be" 7488
+"i used to" 2432
+"i ve always" 1408
+"i ve been" 13952
+"i ve ever" 2048
+"i ve got" 4224
+"i ve had" 3456
+"i ve never" 2496
+"i ve seen" 2368
+"i wanted to" 7232
+"i want to" 11200
+"i was a" 3712
+"i was able" 1344
+"i was at" 1344
+"i was going" 2624
+"i was in" 3200
+"i was not" 1344
+"i wasn t" 4736
+"i was really" 1344
+"i was so" 2368
+"i went to" 2880
+"i will be" 4736
+"i will not" 1344
+"i wish i" 4224
+"i woke up" 1472
+"i wonder if" 1920
+"i won t" 3904
+"i would be" 1472
+"i would have" 2816
+"i would like" 3136
+"i would love" 2304
+"i would not" 1472
+"i wouldn t" 3008
+"just a few" 1920
+"just can t" 1344
+"just don t" 1664
+"just have to" 1984
+"just wanted to" 2048
+"just want to" 1920
+"kind of a" 1472
+"know how to" 2688
+"know if you" 1600
+"know it s" 1792
+"know what i" 2112
+"know what to" 1408
+"know what you" 1280
+"last year s" 2176
+"later in the" 1280
+"left in the" 1472
+"less than a" 1408
+"let me know" 4480
+"let s get" 1280
+"let s go" 1984
+"let us know" 2240
+"like i m" 1280
+"like to be" 1408
+"live in a" 1280
+"ll have to" 1728
+"look at the" 4160
+"look forward to" 3648
+"looking at the" 1280
+"looking for a" 3328
+"looking forward to" 8384
+"looks like a" 2304
+"lot of people" 1920
+"love to see" 1344
+"make it a" 1280
+"make sure you" 1728
+"many of the" 2496
+"many of you" 1472
+"may have been" 1536
+"may not be" 1600
+"me and i" 1408
+"me and my" 1536
+"me i m" 1344
+"me in the" 1600
+"member of the" 2944
+"members of the" 3712
+"m going to" 7104
+"middle of the" 2304
+"might be a" 1344
+"millions of dollars" 1280
+"m not a" 1344
+"m not going" 1472
+"m not sure" 3456
+"more and more" 1920
+"more of a" 1664
+"more than a" 5184
+"more than million" 1472
+"more than one" 1792
+"more than the" 1472
+"more than years" 1344
+"most of the" 6528
+"mother s day" 2432
+"m pretty sure" 1408
+"much of the" 3264
+"my way to" 1536
+"needs to be" 3392
+"need to be" 4160
+"need to do" 1664
+"need to get" 2688
+"need to know" 1344
+"need to make" 1280
+"new york city" 3264
+"new york times" 1408
+"next to the" 1664
+"no matter how" 1728
+"no matter what" 2560
+"not going to" 3968
+"not have a" 1344
+"nothing to do" 1792
+"not sure what" 1408
+"not to be" 1856
+"not to mention" 1984
+"not want to" 1792
+"now i have" 1280
+"now i m" 3904
+"now it s" 2560
+"now that i" 1472
+"of all the" 2432
+"of a new" 1280
+"of course i" 1472
+"of my favorite" 2560
+"of my life" 2688
+"of new york" 1280
+"of one of" 1600
+"of the best" 3136
+"of the book" 1856
+"of the building" 1344
+"of the city" 3008
+"of the company" 1408
+"of the day" 6144
+"of the first" 3392
+"of the game" 2496
+"of the house" 2304
+"of their own" 1344
+"of the most" 6528
+"of the nation" 1344
+"of the national" 1408
+"of the new" 2752
+"of the night" 1664
+"of the other" 1536
+"of the people" 1344
+"of the same" 2304
+"of the season" 2816
+"of the state" 2752
+"of the story" 1600
+"of the things" 1600
+"of the time" 2432
+"of the top" 1600
+"of the two" 1408
+"of the united" 1600
+"of the way" 2048
+"of the week" 1984
+"of the world" 4480
+"of the year" 6720
+"of this year" 1408
+"of those who" 1344
+"of thousands of" 1280
+"omg omg omg" 1600
+"on behalf of" 1536
+"one of his" 1984
+"one of my" 8064
+"one of our" 1600
+"one of the" 33792
+"one of them" 2752
+"one of those" 4992
+"one thing i" 1472
+"on how to" 1728
+"on my way" 2112
+"on the back" 1344
+"on the first" 1664
+"on the floor" 1856
+"on the front" 1536
+"on the ground" 1792
+"on the internet" 1408
+"on the new" 1344
+"on the other" 3776
+"on the phone" 1280
+"on the radio" 1408
+"on the road" 2304
+"on the same" 1408
+"on the side" 1984
+"on the th" 2048
+"on the way" 2560
+"on top of" 2816
+"on to the" 1600
+"or at least" 1920
+"out how to" 1408
+"out in the" 2560
+"out of a" 2176
+"out of his" 1344
+"out of my" 2432
+"out of the" 14528
+"out of town" 1344
+"out on the" 1728
+"out to be" 2240
+"out to the" 2176
+"over and over" 1536
+"over the last" 2688
+"over the next" 1536
+"over the past" 3072
+"over the years" 3136
+"over to the" 1600
+"part of a" 2752
+"part of the" 11328
+"part of this" 1408
+"parts of the" 1408
+"people don t" 1536
+"people in the" 1984
+"people who are" 2304
+"people who have" 1536
+"percent of the" 3328
+"place in the" 1984
+"please follow me" 1920
+"point of view" 1344
+"portion of the" 1408
+"president barack obama" 1600
+"president of the" 2624
+"quite a bit" 1280
+"ready for the" 1472
+"really don t" 1344
+"really want to" 1536
+"re going to" 4928
+"related to the" 1408
+"rest of the" 6976
+"right now i" 1728
+"role in the" 1536
+"s a good" 2304
+"s a great" 2112
+"said he is" 1408
+"said he was" 2304
+"said i m" 1600
+"said in a" 3904
+"said in an" 1280
+"said it is" 1408
+"said it s" 3776
+"said it was" 2944
+"said of the" 1344
+"s a lot" 2240
+"say that i" 1472
+"s been a" 2432
+"secretary of state" 1408
+"seems to be" 2560
+"seems to have" 1280
+"seem to be" 2112
+"s going to" 6208
+"s hard to" 2240
+"she didn t" 1536
+"she doesn t" 1664
+"she is a" 1344
+"she was a" 1792
+"should be a" 1408
+"should have been" 1792
+"shouldn t be" 1664
+"shout out to" 1280
+"side of the" 4736
+"since i ve" 1344
+"s in the" 1344
+"s just a" 1472
+"s kind of" 1280
+"s not a" 2624
+"s not the" 1984
+"so i can" 2880
+"so i could" 1280
+"so if you" 1664
+"so i m" 4224
+"so it s" 3008
+"so i was" 1280
+"some kind of" 1344
+"some of my" 2112
+"some of the" 12864
+"some of them" 1600
+"some of these" 1600
+"some sort of" 1600
+"so much for" 1792
+"so much to" 1728
+"s one of" 1920
+"sounds like a" 1280
+"so you can" 1664
+"spokesman for the" 1280
+"spread the word" 1280
+"state of the" 1344
+"s the only" 1280
+"s time for" 1600
+"s time to" 1664
+"such as the" 2112
+"supposed to be" 2944
+"s what i" 1984
+"take care of" 1920
+"talking about the" 1280
+"talk to me" 1280
+"t do it" 1280
+"t even know" 1792
+"t get to" 1408
+"t going to" 1536
+"thanks for following" 2176
+"thanks for the" 15872
+"thanks so much" 1664
+"thank you for" 8640
+"thank you so" 2112
+"that doesn t" 3648
+"that has been" 1344
+"that have been" 1536
+"that he had" 1472
+"that he is" 1344
+"that he s" 1280
+"that he was" 3072
+"that i am" 2944
+"that i can" 2560
+"that i could" 1792
+"that i don" 1408
+"that i had" 2304
+"that i have" 3584
+"that i m" 5184
+"that is a" 1664
+"that is the" 1984
+"that it is" 3648
+"that it s" 5056
+"that it was" 3648
+"that it will" 1536
+"that it would" 1344
+"that i ve" 3008
+"that i was" 2624
+"that i would" 1664
+"that kind of" 1600
+"that no one" 1472
+"that s a" 6016
+"that s all" 1472
+"that she was" 1344
+"that s how" 1664
+"that s it" 1344
+"that s just" 2176
+"that s my" 1536
+"that s not" 5568
+"that s the" 6144
+"that s what" 7680
+"that s when" 1408
+"that s why" 3200
+"that there are" 1792
+"that there is" 2944
+"that there s" 1280
+"that there was" 1856
+"that they are" 2432
+"that they re" 1408
+"that they were" 1856
+"that this is" 1472
+"that was a" 2048
+"that wasn t" 1728
+"that was the" 1792
+"that we are" 2112
+"that we can" 1664
+"that we have" 2304
+"that we re" 1344
+"that will be" 1792
+"that would be" 4032
+"that you are" 1728
+"that you can" 2368
+"that you have" 1600
+"that you re" 1344
+"t have a" 3328
+"t have any" 1344
+"t have the" 1408
+"t have to" 5632
+"the ability to" 2176
+"the age of" 1344
+"the amount of" 1920
+"the back of" 3200
+"the beginning of" 2368
+"the best of" 2880
+"the block of" 1856
+"the bottom of" 2752
+"the center of" 1536
+"the chance to" 1536
+"the city of" 2304
+"the city s" 6144
+"the company s" 3584
+"the cost of" 2624
+"the country s" 1408
+"the county s" 1280
+"the course of" 1408
+"the day before" 1344
+"the day i" 1472
+"the death of" 1984
+"the department of" 1728
+"the difference between" 1728
+"the edge of" 1344
+"the end of" 13184
+"the fact that" 7744
+"the federal government" 1280
+"the first half" 1664
+"the first place" 1536
+"the first round" 1536
+"the first thing" 1280
+"the first time" 8640
+"the future of" 1472
+"the government s" 1344
+"the governor s" 1280
+"the heart of" 2176
+"the history of" 1472
+"the idea of" 3136
+"the idea that" 1408
+"the importance of" 2112
+"the kind of" 2112
+"the lack of" 2176
+"the last few" 1280
+"the last time" 3072
+"the last two" 1792
+"the last years" 1280
+"the late s" 1664
+"the life of" 1280
+"the los angeles" 1344
+"the majority of" 2496
+"the middle of" 4224
+"the mid s" 1600
+"them in a" 1280
+"them in the" 2176
+"the most important" 2112
+"the name of" 1920
+"the nation s" 3008
+"the need for" 1280
+"the need to" 1600
+"the new jersey" 1280
+"the new york" 3904
+"the next day" 2752
+"the next few" 1728
+"the number of" 6144
+"the one that" 1408
+"the only one" 3008
+"the only thing" 2176
+"the only way" 1856
+"the opportunity to" 2688
+"the other day" 2176
+"the other hand" 2112
+"the other side" 2112
+"the past few" 2496
+"the people of" 1472
+"the people who" 1984
+"the point of" 1536
+"the possibility of" 1408
+"the power of" 1664
+"the problem is" 1536
+"the process of" 1536
+"there are a" 1920
+"there are many" 1600
+"there are no" 1600
+"there are some" 2368
+"there have been" 1344
+"there is a" 8128
+"there is no" 8320
+"there s a" 8768
+"there s no" 4352
+"there s nothing" 1920
+"the rest of" 11456
+"there was a" 5056
+"there was no" 2560
+"there will be" 3648
+"the right to" 1536
+"the role of" 1536
+"the same thing" 3072
+"the same time" 4864
+"the same way" 2112
+"the s and" 2048
+"the school s" 1344
+"these are the" 1664
+"the side of" 2176
+"the size of" 2112
+"the spirit of" 1600
+"the start of" 2816
+"the state of" 2240
+"the state s" 5248
+"the story of" 2048
+"the th century" 1280
+"the things i" 1344
+"the things that" 1728
+"the time and" 1536
+"the time he" 1280
+"the time i" 1536
+"the time of" 2752
+"the time to" 2240
+"the top of" 3648
+"the united states" 7488
+"the university of" 3904
+"the use of" 1664
+"the way i" 2240
+"the way the" 1472
+"the way to" 2240
+"the way you" 1600
+"the white house" 2176
+"the world and" 1600
+"the world s" 3072
+"they are not" 2304
+"they can t" 1600
+"they didn t" 2048
+"they don t" 6976
+"the year old" 5440
+"they have a" 1664
+"they have to" 1344
+"they need to" 1536
+"they re not" 2368
+"they want to" 2176
+"they will be" 1472
+"thing to do" 1280
+"think i m" 2304
+"think it s" 5248
+"think that s" 1408
+"this is a" 8832
+"this is an" 1344
+"this is my" 1664
+"this is not" 3008
+"this isn t" 2432
+"this is one" 1408
+"this is the" 9408
+"this is what" 2112
+"this kind of" 1600
+"this was a" 2368
+"this week s" 1664
+"this year s" 2432
+"those of you" 1600
+"those who are" 1728
+"thought i d" 1472
+"thought it was" 2432
+"time for a" 1472
+"time in the" 1856
+"time of the" 2176
+"time of year" 1472
+"time to get" 1984
+"t know how" 1984
+"t know if" 1728
+"t know what" 3392
+"t make it" 1280
+"t need to" 1920
+"to all of" 1344
+"to all the" 2176
+"to be a" 14912
+"to be able" 3328
+"to be an" 2304
+"to be at" 1600
+"to become a" 1408
+"to be done" 1600
+"to be honest" 1472
+"to be in" 3456
+"to believe that" 1280
+"to be more" 2176
+"to be on" 2496
+"to be one" 1472
+"to be the" 6592
+"to be there" 1472
+"to come back" 1344
+"to come to" 1344
+"to come up" 1408
+"to continue to" 1408
+"to create a" 2368
+"to deal with" 2304
+"to do a" 1600
+"to do and" 1408
+"to do is" 2112
+"to do it" 4288
+"to do so" 2624
+"to do something" 1792
+"to do that" 2048
+"to do the" 2624
+"to do this" 1472
+"to do with" 6336
+"to each other" 1536
+"to ensure that" 1408
+"to everyone who" 1280
+"to figure out" 2560
+"to find a" 2816
+"to find out" 2624
+"to find the" 1920
+"to focus on" 2176
+"to get a" 5248
+"to get back" 2304
+"to get in" 1344
+"to get it" 1856
+"to get my" 1728
+"to get out" 1984
+"to get some" 1920
+"to get the" 4800
+"to get to" 3200
+"to give the" 1344
+"to go back" 1600
+"to go on" 1280
+"to go out" 1920
+"to go to" 7104
+"to have a" 6464
+"to have an" 1408
+"to have the" 1792
+"to have to" 1664
+"to help the" 1408
+"to keep it" 1408
+"to keep the" 2496
+"to know that" 1408
+"to know what" 1728
+"to listen to" 1920
+"to live in" 1536
+"to look at" 3008
+"to make a" 5952
+"to make it" 4480
+"to make sure" 3648
+"to make the" 3968
+"to make this" 1536
+"to me and" 1600
+"to meet you" 1472
+"to me that" 2048
+"to one of" 1344
+"to pay for" 2048
+"to pick up" 1920
+"top of the" 3264
+"to respond to" 1344
+"to say that" 3392
+"to say the" 1280
+"to see a" 2560
+"to see how" 1920
+"to see if" 2688
+"to see it" 1472
+"to see that" 1472
+"to see the" 5248
+"to see what" 2560
+"to see you" 3776
+"to share with" 1344
+"to start the" 1408
+"to stay in" 1280
+"to take a" 3968
+"to take the" 1984
+"to talk about" 2624
+"to talk to" 3072
+"to tell you" 1984
+"to the city" 1536
+"to the hospital" 1280
+"to the new" 1280
+"to the next" 1536
+"to the point" 2048
+"to the public" 1408
+"to the right" 1536
+"to the state" 1344
+"to the world" 1344
+"to think about" 1344
+"to try to" 3136
+"to use the" 2944
+"to watch the" 1728
+"to work on" 2048
+"to work with" 2688
+"to worry about" 1472
+"trip to the" 1408
+"trying to figure" 1408
+"trying to get" 2880
+"t seem to" 1408
+"t think i" 1536
+"t think it" 1344
+"turned out to" 1344
+"t wait for" 3008
+"t wait to" 5248
+"t want to" 8896
+"two of the" 1600
+"two years ago" 1856
+"up and down" 1280
+"up at the" 1280
+"up for the" 2048
+"up in a" 1728
+"up in the" 3392
+"up on the" 1920
+"up to a" 1472
+"up to the" 4032
+"up with a" 2816
+"up with the" 2304
+"used to be" 1792
+"ve got a" 1856
+"ve got to" 2240
+"ve had a" 1344
+"vice president of" 1408
+"wait for the" 1856
+"waiting for the" 1408
+"wait to see" 2496
+"wanted to be" 2112
+"wants to be" 1344
+"want to be" 5632
+"want to do" 1920
+"want to get" 1792
+"want to go" 2944
+"want to know" 2048
+"want to make" 1792
+"want to see" 2560
+"want you to" 1536
+"was able to" 2880
+"was a good" 1472
+"was a great" 2240
+"was a little" 1600
+"was at the" 1344
+"was born in" 1280
+"was going to" 5440
+"was in the" 3072
+"was not a" 1472
+"wasn t a" 1536
+"wasn t the" 1664
+"was one of" 3776
+"was on the" 1344
+"was supposed to" 1344
+"was the best" 1600
+"was the first" 2496
+"was trying to" 1920
+"way to get" 1600
+"way to go" 1280
+"way to the" 1472
+"we are all" 1280
+"we are going" 1536
+"we are not" 1408
+"we can t" 2880
+"we couldn t" 1472
+"we didn t" 3904
+"we don t" 6080
+"we had a" 3520
+"we had to" 1856
+"we have a" 4672
+"we have been" 1920
+"we have to" 3712
+"well as the" 1728
+"we ll be" 2560
+"we ll see" 2048
+"we need to" 4736
+"went to the" 2944
+"were able to" 2496
+"we re going" 2816
+"were going to" 1664
+"were in the" 1536
+"we re not" 1920
+"we ve been" 2816
+"we ve got" 2496
+"we ve had" 1664
+"we want to" 2944
+"we will be" 2816
+"we will have" 1280
+"what are you" 1984
+"what do you" 3712
+"what i do" 1344
+"what i m" 1984
+"what is the" 1856
+"what it is" 1984
+"what it was" 1472
+"what i was" 1280
+"what kind of" 1792
+"what s the" 1856
+"what s up" 1920
+"what s your" 1728
+"what to do" 2880
+"what you re" 1728
+"when he was" 2688
+"when i get" 1792
+"when i m" 2752
+"when it comes" 4032
+"when it s" 1664
+"when it was" 1280
+"when i was" 5184
+"when she was" 1472
+"when they are" 1344
+"when they were" 1472
+"when you are" 1344
+"when you get" 1664
+"when you re" 4416
+"where are you" 1408
+"where you can" 1344
+"whether or not" 1984
+"which is a" 1536
+"while i was" 1280
+"who doesn t" 1536
+"who don t" 2112
+"who has been" 1856
+"will be a" 4288
+"will be able" 1536
+"will be at" 1920
+"will be in" 1728
+"will be the" 2624
+"will continue to" 2048
+"will have a" 1600
+"will have to" 2624
+"will need to" 1472
+"will not be" 1856
+"wish i could" 2816
+"wish i was" 1408
+"with a few" 1536
+"with a little" 1280
+"with all the" 2240
+"won t be" 4608
+"working on a" 1280
+"working on the" 1280
+"would be a" 4224
+"would be the" 1984
+"would have been" 3456
+"would have to" 2176
+"would like to" 5440
+"would love to" 3840
+"would not be" 1920
+"wouldn t be" 2240
+"wouldn t have" 1792
+"years ago i" 1536
+"you and i" 1280
+"you are a" 2176
+"you are in" 1408
+"you are not" 2048
+"you are the" 1344
+"you can also" 1280
+"you can do" 1280
+"you can find" 1472
+"you can get" 2240
+"you can see" 2816
+"you can t" 8000
+"you didn t" 1984
+"you don t" 14592
+"you for the" 3264
+"you for your" 1344
+"you get a" 1536
+"you going to" 1536
+"you had a" 1280
+"you have a" 5248
+"you have any" 1536
+"you haven t" 2240
+"you have the" 1472
+"you have to" 7424
+"you know i" 1472
+"you know it" 1600
+"you know that" 1984
+"you know the" 1408
+"you know what" 3072
+"you know you" 1344
+"you ll be" 1728
+"you need to" 4672
+"you re a" 3200
+"you re going" 1920
+"you re in" 1984
+"you re not" 5632
+"you re so" 1600
+"you re the" 1344
+"you re welcome" 1920
+"you so much" 2816
+"you think you" 1600
+"you ve been" 1472
+"you ve got" 2560
+"you want to" 8640
+"you will be" 2176
+"you won t" 2240
+"a big fan of" 1408
+"a bit of a" 3584
+"a couple of days" 2048
+"a couple of weeks" 1664
+"a few weeks ago" 2304
+"a few years ago" 2688
+"a great deal of" 1536
+"a great way to" 2176
+"a little bit of" 1920
+"all of a sudden" 1664
+"all over the place" 1536
+"all the way to" 1280
+"a lot of fun" 1536
+"a lot of people" 3584
+"a lot of things" 1792
+"a lot of time" 1920
+"a lot of work" 2048
+"a member of the" 3840
+"and a lot of" 2176
+"and i can t" 2048
+"and i didn t" 1792
+"and i don t" 5120
+"and i have been" 1280
+"and i m not" 2560
+"and i think it" 1280
+"and it s a" 1664
+"and it s not" 2048
+"and it will be" 1280
+"and i ve been" 1408
+"and i will be" 1280
+"and now i m" 2048
+"and one of the" 1920
+"and out of the" 1920
+"and that s what" 1280
+"and then there s" 1280
+"and the rest of" 2304
+"a piece of the" 1280
+"are a lot of" 1408
+"are going to be" 2048
+"are you going to" 2304
+"as a result of" 2688
+"as far as i" 1792
+"as long as i" 1664
+"as long as the" 1280
+"as much as i" 1920
+"as much as possible" 1536
+"as one of the" 1920
+"as part of a" 1280
+"as part of the" 1920
+"a spokesman for the" 1792
+"as soon as i" 1920
+"as well as a" 2048
+"as well as the" 3456
+"at a time when" 1920
+"a time when the" 1280
+"at the beginning of" 1664
+"at the bottom of" 2176
+"at the end of" 9856
+"at the same time" 8320
+"at the start of" 2176
+"at the time of" 3328
+"at the top of" 2432
+"at the university of" 3712
+"a whole lot of" 1920
+"a wide range of" 1280
+"back in the day" 1536
+"be able to get" 1536
+"be a part of" 2560
+"because i don t" 2432
+"be one of the" 1408
+"bring to a boil" 1280
+"but he said he" 1408
+"but i can t" 2048
+"but i couldn t" 2048
+"but i didn t" 1536
+"but i don t" 6272
+"but i m not" 2560
+"but it didn t" 1408
+"but it doesn t" 1408
+"but i think it" 1536
+"but it s a" 1792
+"but it s not" 2048
+"but that doesn t" 2304
+"but that s not" 1536
+"by the end of" 6016
+"by the time he" 1408
+"can i get a" 1536
+"can t believe i" 1664
+"can t help but" 1408
+"can t tell you" 1280
+"can t wait for" 5760
+"can t wait to" 10368
+"come up with a" 1920
+"contributed to this report" 1920
+"did not want to" 1280
+"didn t even know" 1408
+"didn t get to" 1408
+"didn t have a" 1280
+"didn t have to" 2304
+"didn t want to" 3712
+"did you know that" 1536
+"doesn t have a" 1408
+"doesn t have to" 1536
+"doesn t seem to" 1536
+"doesn t want to" 1920
+"do not want to" 1536
+"don t even know" 1920
+"don t forget to" 2304
+"don t get it" 1280
+"don t get me" 1664
+"don t have a" 3840
+"don t have any" 1792
+"don t have to" 6400
+"don t know about" 1280
+"don t know how" 3328
+"don t know if" 2816
+"don t know what" 5632
+"don t know where" 1280
+"don t know why" 1792
+"don t need to" 2304
+"don t think i" 2688
+"don t think it" 1536
+"don t think that" 1408
+"don t think they" 1280
+"don t want to" 11264
+"don t worry i" 1408
+"do the right thing" 1280
+"do you have a" 2304
+"do you have any" 1792
+"do you want to" 2048
+"end of the day" 2560
+"end of the year" 1792
+"feel like i ve" 1280
+"fell in love with" 1408
+"figure out how to" 1664
+"for a couple of" 1664
+"for a long time" 3968
+"for as long as" 1408
+"for more than a" 1408
+"for more than years" 1408
+"for the first time" 9344
+"for the rest of" 4352
+"for the sake of" 1792
+"for the shout out" 1408
+"for those of you" 2432
+"forward to seeing you" 1792
+"from time to time" 1664
+"get a chance to" 1280
+"going to be a" 7040
+"going to have to" 2048
+"had a chance to" 1792
+"had a great time" 1664
+"had a lot of" 1920
+"happy mother s day" 1280
+"has a lot of" 1792
+"has to do with" 1408
+"have a great day" 2432
+"have a lot of" 2688
+"have been able to" 1280
+"have to do is" 1408
+"have to worry about" 1536
+"he said it s" 1664
+"he said it was" 1536
+"he s going to" 1792
+"he s got a" 1280
+"he s one of" 1280
+"hope all is well" 2176
+"hope to see you" 1664
+"hope you have a" 1280
+"hundreds of thousands of" 1280
+"i am going to" 3456
+"i am not sure" 1792
+"i am trying to" 1408
+"i can t believe" 2560
+"i can t even" 1920
+"i can t get" 1280
+"i can t help" 1408
+"i can t say" 1280
+"i can t stop" 1408
+"i can t tell" 1408
+"i can t wait" 6912
+"i didn t even" 2048
+"i didn t get" 1408
+"i didn t have" 2560
+"i didn t know" 4096
+"i didn t really" 1408
+"i didn t see" 1280
+"i didn t think" 2176
+"i didn t want" 2432
+"i d like to" 5248
+"i d love to" 2816
+"i do not know" 1280
+"i don t believe" 1408
+"i don t care" 2944
+"i don t even" 2944
+"i don t feel" 2432
+"i don t get" 2432
+"i don t have" 8832
+"i don t know" 17664
+"i don t like" 4864
+"i don t need" 2176
+"i don t really" 1408
+"i don t remember" 1408
+"i don t see" 2816
+"i don t think" 14208
+"i don t understand" 1280
+"i don t want" 7680
+"i feel like i" 3072
+"i felt like i" 1280
+"if i don t" 2432
+"if it doesn t" 1280
+"if they don t" 1792
+"if you are a" 1280
+"if you can t" 1920
+"if you don t" 8704
+"if you have any" 1280
+"if you haven t" 3072
+"if you re a" 1536
+"if you re not" 3072
+"if you want to" 6016
+"i had to do" 1280
+"i have no idea" 2304
+"i haven t been" 2176
+"i haven t seen" 1664
+"i have to do" 1408
+"i have to say" 2688
+"i just don t" 1536
+"i just wanted to" 1792
+"i just want to" 2432
+"i know i know" 1408
+"i know i m" 1408
+"i know it s" 1664
+"i ll be there" 1920
+"i ll have to" 1408
+"i look forward to" 1920
+"i m about to" 2048
+"i m a little" 1792
+"i m glad i" 1920
+"i m going to" 14208
+"i m in the" 1664
+"i miss you too" 1280
+"i m looking forward" 1536
+"i m not a" 2688
+"i m not going" 2944
+"i m not sure" 6784
+"i m pretty sure" 2816
+"i m so excited" 1408
+"i m sure you" 1664
+"i m trying to" 2048
+"i m working on" 1408
+"in addition to the" 1792
+"in a few weeks" 1664
+"in a long time" 1664
+"in a lot of" 1280
+"in an attempt to" 1408
+"in and out of" 2176
+"in an effort to" 2432
+"in a way that" 2304
+"i need to get" 1408
+"in front of a" 1408
+"in front of me" 1280
+"in front of the" 3840
+"in new york city" 2048
+"in one of the" 1664
+"in response to a" 1280
+"in the back of" 2048
+"in the block of" 2816
+"in the bottom of" 1408
+"in the case of" 2048
+"in the early s" 1536
+"in the face of" 1408
+"in the first half" 1920
+"in the first place" 2688
+"in the first round" 1792
+"in the form of" 2304
+"in the fourth quarter" 1280
+"in the heart of" 1280
+"in the late s" 1536
+"in the middle of" 7296
+"in the mid s" 1920
+"in the midst of" 2432
+"in the next few" 1280
+"in the process of" 1280
+"in the s and" 2944
+"in the second half" 1408
+"in the united states" 6656
+"in the wake of" 1408
+"i really don t" 1792
+"i really want to" 1408
+"is expected to be" 1920
+"is going to be" 8064
+"is one of my" 1664
+"is one of the" 8064
+"is one of those" 1280
+"is part of the" 1408
+"it doesn t matter" 1536
+"it has to be" 1920
+"i think i ll" 1408
+"i think i m" 2944
+"i think it s" 7424
+"i think it would" 1408
+"i think that s" 2432
+"i think we re" 1664
+"i thought i d" 1536
+"i thought it was" 2688
+"it is hard to" 1280
+"it is not a" 1408
+"it s a good" 2560
+"it s a great" 2688
+"it s a little" 1408
+"it s all about" 1664
+"it s a lot" 1280
+"it s a very" 1408
+"it s been a" 3968
+"it s going to" 6144
+"it s hard to" 4480
+"it s important to" 1792
+"it s just a" 1664
+"it s kind of" 2048
+"it s nice to" 1792
+"it s not a" 2432
+"it s not just" 1280
+"it s not like" 2048
+"it s not that" 1280
+"it s not the" 2432
+"it s one of" 1408
+"it s only a" 1280
+"it s the first" 1408
+"it s time for" 3200
+"it s time to" 3200
+"it was a good" 1408
+"it was a great" 2304
+"it was going to" 1792
+"it was just a" 1280
+"it wasn t a" 1280
+"it was one of" 1280
+"it was the first" 1280
+"it was time to" 1920
+"it will be a" 1664
+"it would be a" 2432
+"i ve been a" 1536
+"i ve been working" 1280
+"i ve got a" 1536
+"i ve had a" 1792
+"i wanted to be" 1792
+"i want to be" 3200
+"i want to do" 1408
+"i want to go" 1664
+"i want to see" 1664
+"i was able to" 2688
+"i was a little" 1280
+"i was going to" 3968
+"i was in the" 1664
+"i was trying to" 1920
+"i wish i could" 3712
+"i wish i had" 1280
+"i wish i was" 1536
+"i won t be" 1664
+"i would like to" 5376
+"i would love to" 3712
+"i wouldn t be" 1536
+"know what to do" 1536
+"let me know if" 1536
+"let me tell you" 1408
+"let s just say" 1280
+"let us know if" 1664
+"ll be able to" 1408
+"looking forward to it" 1280
+"looking forward to seeing" 2176
+"looking forward to the" 2048
+"meep meep meep meep" 1664
+"me know if you" 1280
+"m looking forward to" 1536
+"m not going to" 2560
+"more than a year" 1536
+"most of the time" 1536
+"needs to be done" 1280
+"not going to be" 1408
+"nothing to do with" 2816
+"of the city s" 2560
+"of the company s" 1280
+"of the day it" 1280
+"of the most important" 1536
+"of the nation s" 1536
+"of the state s" 1536
+"of the things i" 1280
+"of the things that" 1280
+"of the united states" 2560
+"of the world s" 1408
+"omg omg omg omg" 2688
+"on a daily basis" 1280
+"one of my favorite" 3968
+"one of the best" 3968
+"one of the biggest" 1408
+"one of the first" 2432
+"one of the greatest" 1280
+"one of the many" 1280
+"one of the most" 9344
+"one of the things" 2304
+"one of the top" 1536
+"on my way to" 2688
+"on the other hand" 4096
+"on the other side" 1792
+"on the side of" 2176
+"on the verge of" 1536
+"on the way to" 1664
+"on top of the" 1664
+"other side of the" 1664
+"out of the house" 1536
+"out of the way" 1408
+"over and over again" 1280
+"over the course of" 1280
+"over the past few" 1664
+"people who don t" 1408
+"player of the year" 1664
+"please please please please" 1280
+"re going to be" 1664
+"re going to have" 1408
+"re not going to" 1280
+"right now i m" 1280
+"said in an interview" 1280
+"said in a statement" 3968
+"said it was a" 1664
+"s a lot of" 3200
+"see if i can" 1280
+"s going to be" 6912
+"should be able to" 1920
+"so i decided to" 1280
+"so i don t" 2048
+"some of the most" 1920
+"something to do with" 1280
+"so much for the" 1280
+"s one of the" 2048
+"stuck in my head" 1536
+"t be able to" 1792
+"t get me wrong" 1408
+"thanks for following me" 1408
+"thanks for the ff" 1280
+"thanks for the follow" 8960
+"thanks for the mention" 1792
+"thanks for the rt" 4224
+"thanks for the shout" 1280
+"thanks to everyone who" 1408
+"thank you for the" 5760
+"thank you for your" 2176
+"thank you so much" 3840
+"that doesn t mean" 2560
+"that he doesn t" 1408
+"that i can t" 1664
+"that i don t" 2816
+"that i m not" 1408
+"that i ve been" 1536
+"that i wanted to" 1408
+"that s not a" 1792
+"that s the way" 1408
+"that s what i" 2816
+"that s why i" 2176
+"that there is a" 1664
+"that there is no" 1280
+"that you don t" 1408
+"t have time to" 1536
+"t have to be" 1280
+"t have to worry" 1280
+"the back of the" 3456
+"the beginning of the" 2176
+"the best of the" 1536
+"the best way to" 1280
+"the bottom of the" 4352
+"the edge of the" 1792
+"the end of the" 13568
+"the end of this" 1664
+"the fact that i" 1536
+"the fact that the" 1664
+"the first day of" 1792
+"the first time i" 2944
+"the first time in" 2688
+"the last time i" 1664
+"the majority of the" 1536
+"the middle of the" 4224
+"the most important thing" 1408
+"the name of the" 1408
+"the new york times" 1920
+"the number of people" 1408
+"the only thing i" 1280
+"the only way to" 1536
+"the other day i" 1408
+"the other side of" 2176
+"the past few months" 1408
+"the past few years" 1664
+"the president of the" 1536
+"there are a few" 1280
+"there are a lot" 1408
+"there are plenty of" 1408
+"there are so many" 2048
+"there is no way" 1792
+"there is so much" 1920
+"there s a lot" 2176
+"there s no way" 1408
+"the rest of my" 1664
+"the rest of the" 13696
+"the rest of us" 1536
+"there was a lot" 1280
+"there will be a" 2560
+"the s and s" 1536
+"the side of the" 2688
+"the size of the" 1408
+"the start of the" 2176
+"the state department of" 1792
+"the time of the" 2816
+"the top of the" 4352
+"the united states and" 1408
+"they don t have" 1408
+"they re going to" 1536
+"think it s a" 2048
+"think it would be" 1536
+"this is a great" 1280
+"this is a very" 1280
+"this is going to" 1920
+"this is not a" 2432
+"this is one of" 1792
+"this is the first" 1664
+"this time of year" 1920
+"those of you who" 1792
+"thought it would be" 1280
+"t know how to" 1408
+"t know what to" 1280
+"to be able to" 6656
+"to be a part" 1920
+"to be honest i" 1408
+"to be in the" 1408
+"to be one of" 2304
+"to be on the" 2048
+"to be part of" 1792
+"to come up with" 2688
+"to do the same" 1280
+"to do with it" 1408
+"to do with the" 3712
+"to figure out how" 1408
+"to figure out what" 1408
+"to get back to" 2048
+"to get out of" 2560
+"to get to the" 1280
+"to go back to" 1408
+"to go to the" 2816
+"to keep up with" 1280
+"to learn how to" 1408
+"to learn more about" 1792
+"to share with you" 1408
+"to take care of" 2048
+"to the city s" 1408
+"to the fact that" 1664
+"to the point where" 1792
+"to work with the" 1280
+"trying to figure out" 2304
+"t seem to be" 1280
+"turned out to be" 2304
+"t wait for the" 1920
+"t wait to get" 1408
+"t wait to see" 4224
+"t want to be" 1664
+"two and a half" 1792
+"us know if you" 1280
+"want to know what" 1280
+"was a lot of" 1280
+"was going to be" 2944
+"was one of the" 3328
+"we are going to" 2560
+"we don t have" 1536
+"we don t know" 1792
+"we re going to" 4864
+"we re trying to" 1280
+"we were able to" 1408
+"what do you do" 1408
+"what do you think" 1536
+"what is going on" 1280
+"what s going on" 1664
+"what s your favorite" 1280
+"what to do with" 1792
+"what you re doing" 1408
+"when it comes to" 7552
+"when i was a" 1280
+"who is going to" 1280
+"why can t i" 1280
+"why don t you" 1280
+"will be able to" 3072
+"with a lot of" 1280
+"would be a good" 1280
+"would have to be" 1408
+"would like to see" 1280
+"would love to see" 1280
+"wouldn t have been" 1408
+"you are going to" 1408
+"you are having a" 1280
+"you don t have" 4864
+"you don t know" 3840
+"you don t like" 1408
+"you don t need" 1792
+"you don t want" 1792
+"you have a great" 1280
+"you have to be" 1280
+"you just have to" 1408
+"you know what i" 1664
+"you re going to" 3456
+"you re in the" 1280
+"you re looking for" 1536
+"you ve got to" 2176
+"you want to be" 1536
+"you want to go" 1280
+"you would like to" 1664
